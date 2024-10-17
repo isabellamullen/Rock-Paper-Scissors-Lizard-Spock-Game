@@ -1,4 +1,4 @@
-# Rock-Paper-Scissors-Lizard-Spock-Game
+# Rock Paper Scissors Lizard Spock Game
 
 It is a straightforward game:
 Two participants choose one among the following weapons:
