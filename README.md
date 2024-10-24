@@ -1,5 +1,7 @@
 # Rock Paper Scissors Lizard Spock Game
 
+This game allows players to compete against a computer or a human opponent and features adjustable difficulty levels for the AI. The game expands the traditional rock-paper-scissors format to include two additional options: Lizard and Spock, each with unique rules for winning or losing.
+
 It is a straightforward game:
 Two participants choose one among the following weapons:
 - Rock (closed fist, in red)
